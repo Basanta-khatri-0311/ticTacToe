@@ -1,1 +1,2 @@
 # ticTacToe
+# I just completed the javascript where i learned about the multidimensional array and was keen to know wether # i can make it or not so here i am trying to make a tic tac toe using html css and java script.
